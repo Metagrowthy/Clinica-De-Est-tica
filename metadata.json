@@ -1,0 +1,6 @@
+{
+  "name": "Benessere Vita ERP",
+  "description": "Responsive SPA dashboard for the Benessere Vita premium aesthetic clinic, featuring appointment scheduling, client CRM, financial ledger with DRE, sales catalog, product inventory insights, team management, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
